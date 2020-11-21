@@ -1,0 +1,2664 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 1920
+    height: 997
+  m_ShowMode: 4
+  m_Title: Scene
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 997
+  m_MinSize: {x: 875, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 977
+    width: 1920
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1920
+    height: 947
+  m_MinSize: {x: 504, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 118
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1367
+    height: 947
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 57
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 8}
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1367
+    height: 572
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 58
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 403
+    height: 572
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 403
+    y: 0
+    width: 964
+    height: 572
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 13}
+  - {fileID: 16}
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectBrowser
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 572
+    width: 1367
+    height: 375
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: TestRunnerWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1367
+    y: 0
+    width: 553
+    height: 947
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 20}
+  - {fileID: 21}
+  - {fileID: 12}
+  - {fileID: 22}
+  - {fileID: 23}
+  m_Selected: 2
+  m_LastSelected: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1367
+    y: 73
+    width: 552
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+  m_Spl:
+    ID: 340
+    splitterInitialOffset: 653
+    currentActiveSplitter: -1
+    realSizes: 4a0200000e010000
+    relativeSizes:
+    - 0.68457943
+    - 0.31542057
+    minSizes: 2000000020000000
+    maxSizes: 0000000000000000
+    lastTotalSize: 856
+    splitSize: 6
+    xOffset: 0
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 12}
+    newResultList:
+    - id: 1008
+      uniqueId: '[TDD_OverlordGame][suite]'
+      name: TDD_OverlordGame
+      fullName: TDD_OverlordGame
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1004
+      uniqueId: '[C:/Users/albri/Documents/GitHub/TDD_OverlordGame/TDD_OverlordGame/Library/ScriptAssemblies/PlayMode.dll][suite]'
+      name: PlayMode.dll
+      fullName: C:/Users/albri/Documents/GitHub/TDD_OverlordGame/TDD_OverlordGame/Library/ScriptAssemblies/PlayMode.dll
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[TDD_OverlordGame][suite]'
+    - id: 1005
+      uniqueId: PlayMode.dll/[Tests][suite]
+      name: Tests
+      fullName: Tests
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1004
+      parentUniqueId: '[C:/Users/albri/Documents/GitHub/TDD_OverlordGame/TDD_OverlordGame/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1001
+      uniqueId: PlayMode.dll/Tests/[PlayMode][Tests.HealthTesterPM][suite]
+      name: HealthTesterPM
+      fullName: Tests.HealthTesterPM
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: PlayMode.dll/[Tests][suite]
+    - id: 1002
+      uniqueId: PlayMode.dll/Tests/HealthTesterPM/[PlayMode][Tests.HealthTesterPM.HealthTesterPMSimplePasses]
+      name: HealthTesterPMSimplePasses
+      fullName: Tests.HealthTesterPM.HealthTesterPMSimplePasses
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: PlayMode.dll/Tests/[PlayMode][Tests.HealthTesterPM][suite]
+    - id: 1003
+      uniqueId: PlayMode.dll/Tests/HealthTesterPM/[PlayMode][Tests.HealthTesterPM.HealthTesterPMWithEnumeratorPasses]
+      name: HealthTesterPMWithEnumeratorPasses
+      fullName: Tests.HealthTesterPM.HealthTesterPMWithEnumeratorPasses
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: PlayMode.dll/Tests/[PlayMode][Tests.HealthTesterPM][suite]
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 45d21e3f127b035336ed166effffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 12}
+    newResultList:
+    - id: 1000
+      uniqueId: '[TDD_OverlordGame][suite]'
+      name: TDD_OverlordGame
+      fullName: TDD_OverlordGame
+      resultStatus: 2
+      duration: 0.2749119
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1093
+      uniqueId: '[C:/Users/albri/Documents/GitHub/TDD_OverlordGame/TDD_OverlordGame/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+      name: Assembly-CSharp-Editor.dll
+      fullName: C:/Users/albri/Documents/GitHub/TDD_OverlordGame/TDD_OverlordGame/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      resultStatus: 2
+      duration: 0.2275087
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[TDD_OverlordGame][suite]'
+    - id: 1094
+      uniqueId: Assembly-CSharp-Editor.dll/[Tests][suite]
+      name: Tests
+      fullName: Tests
+      resultStatus: 2
+      duration: 0.2237502
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1093
+      parentUniqueId: '[C:/Users/albri/Documents/GitHub/TDD_OverlordGame/TDD_OverlordGame/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+    - id: 1001
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthManagerTester][suite]
+      name: HealthManagerTester
+      fullName: Tests.HealthManagerTester
+      resultStatus: 1
+      duration: 0.0220663
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1094
+      parentUniqueId: Assembly-CSharp-Editor.dll/[Tests][suite]
+    - id: 1002
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthManagerTester/[Assembly-CSharp-Editor][Tests.HealthManagerTester.T00_SimplePasses]
+      name: T00_SimplePasses
+      fullName: Tests.HealthManagerTester.T00_SimplePasses
+      resultStatus: 1
+      duration: 0.0003767
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthManagerTester][suite]
+    - id: 1003
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthManagerTester/[Assembly-CSharp-Editor][Tests.HealthManagerTester.T01_GetHealthCount0]
+      name: T01_GetHealthCount0
+      fullName: Tests.HealthManagerTester.T01_GetHealthCount0
+      resultStatus: 1
+      duration: 0.000209
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthManagerTester][suite]
+    - id: 1004
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthManagerTester/[Assembly-CSharp-Editor][Tests.HealthManagerTester.T02_CanAddHealthToTable]
+      name: T02_CanAddHealthToTable
+      fullName: Tests.HealthManagerTester.T02_CanAddHealthToTable
+      resultStatus: 1
+      duration: 0.0010023
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthManagerTester][suite]
+    - id: 1005
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthManagerTester/[Assembly-CSharp-Editor][Tests.HealthManagerTester.T03_CanRetrieveHealthFromTable]
+      name: T03_CanRetrieveHealthFromTable
+      fullName: Tests.HealthManagerTester.T03_CanRetrieveHealthFromTable
+      resultStatus: 1
+      duration: 0.0003508
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthManagerTester][suite]
+    - id: 1006
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthManagerTester/[Assembly-CSharp-Editor][Tests.HealthManagerTester.T04_CanRemoveHealthFromTable]
+      name: T04_CanRemoveHealthFromTable
+      fullName: Tests.HealthManagerTester.T04_CanRemoveHealthFromTable
+      resultStatus: 1
+      duration: 0.0003368
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthManagerTester][suite]
+    - id: 1005
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+      name: HealthTester
+      fullName: Tests.HealthTester
+      resultStatus: 2
+      duration: 0.2009791
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1094
+      parentUniqueId: Assembly-CSharp-Editor.dll/[Tests][suite]
+    - id: 1006
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T00_SimplePasses]
+      name: T00_SimplePasses
+      fullName: Tests.HealthTester.T00_SimplePasses
+      resultStatus: 1
+      duration: 0.000436
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1007
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T01_HealthIsCreated]
+      name: T01_HealthIsCreated
+      fullName: Tests.HealthTester.T01_HealthIsCreated
+      resultStatus: 1
+      duration: 0.0013007
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1008
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T02_DefaultConstructorStartsWith100Health]
+      name: T02_DefaultConstructorStartsWith100Health
+      fullName: Tests.HealthTester.T02_DefaultConstructorStartsWith100Health
+      resultStatus: 1
+      duration: 0.0004705
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1013
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth][suite]
+      name: T03_CanSetMaxHealth
+      fullName: Tests.HealthTester.T03_CanSetMaxHealth
+      resultStatus: 1
+      duration: 0.0180863
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1009
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T03_CanSetMaxHealth/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth(1)]
+      name: T03_CanSetMaxHealth(1)
+      fullName: Tests.HealthTester.T03_CanSetMaxHealth(1)
+      resultStatus: 1
+      duration: 0.0005028
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth][suite]
+    - id: 1010
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T03_CanSetMaxHealth/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth(10)]
+      name: T03_CanSetMaxHealth(10)
+      fullName: Tests.HealthTester.T03_CanSetMaxHealth(10)
+      resultStatus: 1
+      duration: 0.000321
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth][suite]
+    - id: 1011
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T03_CanSetMaxHealth/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth(99)]
+      name: T03_CanSetMaxHealth(99)
+      fullName: Tests.HealthTester.T03_CanSetMaxHealth(99)
+      resultStatus: 1
+      duration: 0.0002929
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth][suite]
+    - id: 1012
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T03_CanSetMaxHealth/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth(1423432)]
+      name: T03_CanSetMaxHealth(1423432)
+      fullName: Tests.HealthTester.T03_CanSetMaxHealth(1423432)
+      resultStatus: 1
+      duration: 0.0002953
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1013
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T03_CanSetMaxHealth][suite]
+    - id: 1020
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1][suite]
+      name: T04_MaxHealthCannotBeSetBelow1
+      fullName: Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1
+      resultStatus: 1
+      duration: 0.0283533
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1014
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T04_MaxHealthCannotBeSetBelow1/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(1)]
+      name: T04_MaxHealthCannotBeSetBelow1(1)
+      fullName: Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(1)
+      resultStatus: 1
+      duration: 0.0005098
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1][suite]
+    - id: 1015
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T04_MaxHealthCannotBeSetBelow1/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(0)]
+      name: T04_MaxHealthCannotBeSetBelow1(0)
+      fullName: Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(0)
+      resultStatus: 1
+      duration: 0.0005767
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1][suite]
+    - id: 1016
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T04_MaxHealthCannotBeSetBelow1/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(-1)]
+      name: T04_MaxHealthCannotBeSetBelow1(-1)
+      fullName: Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(-1)
+      resultStatus: 1
+      duration: 0.0003707
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1][suite]
+    - id: 1017
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T04_MaxHealthCannotBeSetBelow1/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(-20)]
+      name: T04_MaxHealthCannotBeSetBelow1(-20)
+      fullName: Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(-20)
+      resultStatus: 1
+      duration: 0.0004118
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1][suite]
+    - id: 1018
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T04_MaxHealthCannotBeSetBelow1/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(243)]
+      name: T04_MaxHealthCannotBeSetBelow1(243)
+      fullName: Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(243)
+      resultStatus: 1
+      duration: 0.0002958
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1][suite]
+    - id: 1019
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T04_MaxHealthCannotBeSetBelow1/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(-523)]
+      name: T04_MaxHealthCannotBeSetBelow1(-523)
+      fullName: Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1(-523)
+      resultStatus: 1
+      duration: 0.0003116
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T04_MaxHealthCannotBeSetBelow1][suite]
+    - id: 1021
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T05_CurrentHealthIsSetToMaxHealthOnReset]
+      name: T05_CurrentHealthIsSetToMaxHealthOnReset
+      fullName: Tests.HealthTester.T05_CurrentHealthIsSetToMaxHealthOnReset
+      resultStatus: 1
+      duration: 0.0004456
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1022
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T06_CurrentHealthCanBeSet]
+      name: T06_CurrentHealthCanBeSet
+      fullName: Tests.HealthTester.T06_CurrentHealthCanBeSet
+      resultStatus: 1
+      duration: 0.000385
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1029
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default][suite]
+      name: T07_CurrentHealthCantBeSetAboveMaxHealth_Default
+      fullName: Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default
+      resultStatus: 1
+      duration: 0.0263442
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1023
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T07_CurrentHealthCantBeSetAboveMaxHealth_Default/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(1)]
+      name: T07_CurrentHealthCantBeSetAboveMaxHealth_Default(1)
+      fullName: Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(1)
+      resultStatus: 1
+      duration: 0.0005127
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1029
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default][suite]
+    - id: 1024
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T07_CurrentHealthCantBeSetAboveMaxHealth_Default/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(0)]
+      name: T07_CurrentHealthCantBeSetAboveMaxHealth_Default(0)
+      fullName: Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(0)
+      resultStatus: 1
+      duration: 0.0003212
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1029
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default][suite]
+    - id: 1025
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T07_CurrentHealthCantBeSetAboveMaxHealth_Default/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-1)]
+      name: T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-1)
+      fullName: Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-1)
+      resultStatus: 1
+      duration: 0.0002919
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1029
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default][suite]
+    - id: 1026
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T07_CurrentHealthCantBeSetAboveMaxHealth_Default/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-20)]
+      name: T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-20)
+      fullName: Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-20)
+      resultStatus: 1
+      duration: 0.0003462
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1029
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default][suite]
+    - id: 1027
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T07_CurrentHealthCantBeSetAboveMaxHealth_Default/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(232)]
+      name: T07_CurrentHealthCantBeSetAboveMaxHealth_Default(232)
+      fullName: Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(232)
+      resultStatus: 1
+      duration: 0.000305
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1029
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default][suite]
+    - id: 1028
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T07_CurrentHealthCantBeSetAboveMaxHealth_Default/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-523)]
+      name: T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-523)
+      fullName: Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default(-523)
+      resultStatus: 1
+      duration: 0.0003043
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1029
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T07_CurrentHealthCantBeSetAboveMaxHealth_Default][suite]
+    - id: 1066
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable
+      resultStatus: 1
+      duration: 0.079996
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1030
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,1)
+      resultStatus: 1
+      duration: 0.0005084
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1031
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,0)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,0)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,0)
+      resultStatus: 1
+      duration: 0.0003592
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1032
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-1)
+      resultStatus: 1
+      duration: 0.0003224
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1033
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-20)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-20)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-20)
+      resultStatus: 1
+      duration: 0.0004448
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1034
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,232)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,232)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,232)
+      resultStatus: 1
+      duration: 0.0003566
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1035
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-523)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-523)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(1,-523)
+      resultStatus: 1
+      duration: 0.0003132
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1036
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,1)
+      resultStatus: 1
+      duration: 0.0002883
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1037
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,0)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,0)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,0)
+      resultStatus: 1
+      duration: 0.0003036
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1038
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-1)
+      resultStatus: 1
+      duration: 0.0003055
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1039
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-20)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-20)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-20)
+      resultStatus: 1
+      duration: 0.0002942
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1040
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,232)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,232)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,232)
+      resultStatus: 1
+      duration: 0.0003012
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1041
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-523)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-523)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(0,-523)
+      resultStatus: 1
+      duration: 0.0003354
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1042
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,1)
+      resultStatus: 1
+      duration: 0.0003833
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1043
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,0)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,0)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,0)
+      resultStatus: 1
+      duration: 0.0002997
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1044
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-1)
+      resultStatus: 1
+      duration: 0.0003134
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1045
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-20)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-20)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-20)
+      resultStatus: 1
+      duration: 0.0003518
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1046
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,232)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,232)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,232)
+      resultStatus: 1
+      duration: 0.0003141
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1047
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-523)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-523)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-1,-523)
+      resultStatus: 1
+      duration: 0.0002894
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1048
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,1)
+      resultStatus: 1
+      duration: 0.00029
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1049
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,0)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,0)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,0)
+      resultStatus: 1
+      duration: 0.0003196
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1050
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-1)
+      resultStatus: 1
+      duration: 0.0003077
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1051
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-20)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-20)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-20)
+      resultStatus: 1
+      duration: 0.0003222
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1052
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,232)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,232)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,232)
+      resultStatus: 1
+      duration: 0.0002882
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1053
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-523)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-523)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-20,-523)
+      resultStatus: 1
+      duration: 0.000294
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1054
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,1)
+      resultStatus: 1
+      duration: 0.0002972
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1055
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,0)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,0)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,0)
+      resultStatus: 1
+      duration: 0.000425
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1056
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-1)
+      resultStatus: 1
+      duration: 0.000515
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1057
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-20)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-20)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-20)
+      resultStatus: 1
+      duration: 0.0003967
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1058
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,232)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,232)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,232)
+      resultStatus: 1
+      duration: 0.0003009
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1059
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-523)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-523)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(232,-523)
+      resultStatus: 1
+      duration: 0.0003455
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1060
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,1)
+      resultStatus: 1
+      duration: 0.0002983
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1061
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,0)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,0)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,0)
+      resultStatus: 1
+      duration: 0.0005203
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1062
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-1)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-1)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-1)
+      resultStatus: 1
+      duration: 0.000327
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1063
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-20)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-20)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-20)
+      resultStatus: 1
+      duration: 0.0003717
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1064
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,232)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,232)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,232)
+      resultStatus: 1
+      duration: 0.0003027
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1065
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T08_CurrentHealthCantBeSetAboveMaxHealth_Variable/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-523)]
+      name: T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-523)
+      fullName: Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable(-523,-523)
+      resultStatus: 1
+      duration: 0.0003068
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T08_CurrentHealthCantBeSetAboveMaxHealth_Variable][suite]
+    - id: 1073
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0][suite]
+      name: T09_CurrentHealthCantBeSetBelow0
+      fullName: Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0
+      resultStatus: 1
+      duration: 0.0248732
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1067
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T09_CurrentHealthCantBeSetBelow0/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(1)]
+      name: T09_CurrentHealthCantBeSetBelow0(1)
+      fullName: Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(1)
+      resultStatus: 1
+      duration: 0.0005367
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1073
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0][suite]
+    - id: 1068
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T09_CurrentHealthCantBeSetBelow0/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(0)]
+      name: T09_CurrentHealthCantBeSetBelow0(0)
+      fullName: Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(0)
+      resultStatus: 1
+      duration: 0.0004215
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1073
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0][suite]
+    - id: 1069
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T09_CurrentHealthCantBeSetBelow0/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(-1)]
+      name: T09_CurrentHealthCantBeSetBelow0(-1)
+      fullName: Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(-1)
+      resultStatus: 1
+      duration: 0.0004434
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1073
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0][suite]
+    - id: 1070
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T09_CurrentHealthCantBeSetBelow0/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(-20)]
+      name: T09_CurrentHealthCantBeSetBelow0(-20)
+      fullName: Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(-20)
+      resultStatus: 1
+      duration: 0.0003322
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1073
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0][suite]
+    - id: 1071
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T09_CurrentHealthCantBeSetBelow0/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(232)]
+      name: T09_CurrentHealthCantBeSetBelow0(232)
+      fullName: Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(232)
+      resultStatus: 1
+      duration: 0.0002906
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1073
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0][suite]
+    - id: 1072
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T09_CurrentHealthCantBeSetBelow0/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(-523)]
+      name: T09_CurrentHealthCantBeSetBelow0(-523)
+      fullName: Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0(-523)
+      resultStatus: 1
+      duration: 0.0003178
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1073
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T09_CurrentHealthCantBeSetBelow0][suite]
+    - id: 1077
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile][suite]
+      name: T10_CanReturnCurrentHealthAsPercentile
+      fullName: Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile
+      resultStatus: 1
+      duration: 0.0246869
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1074
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T10_CanReturnCurrentHealthAsPercentile/[Assembly-CSharp-Editor][Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile(100)]
+      name: T10_CanReturnCurrentHealthAsPercentile(100)
+      fullName: Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile(100)
+      resultStatus: 1
+      duration: 0.0005729
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1077
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile][suite]
+    - id: 1075
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T10_CanReturnCurrentHealthAsPercentile/[Assembly-CSharp-Editor][Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile(50)]
+      name: T10_CanReturnCurrentHealthAsPercentile(50)
+      fullName: Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile(50)
+      resultStatus: 1
+      duration: 0.0004007
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1077
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile][suite]
+    - id: 1076
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/T10_CanReturnCurrentHealthAsPercentile/[Assembly-CSharp-Editor][Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile(25)]
+      name: T10_CanReturnCurrentHealthAsPercentile(25)
+      fullName: Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile(25)
+      resultStatus: 1
+      duration: 0.0002892
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1077
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T10_CanReturnCurrentHealthAsPercentile][suite]
+    - id: 1080
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/HealthTester/[Assembly-CSharp-Editor][Tests.HealthTester.T11_AddsSelfToHealthManagerOnCreation]
+      name: T11_AddsSelfToHealthManagerOnCreation
+      fullName: Tests.HealthTester.T11_AddsSelfToHealthManagerOnCreation
+      resultStatus: 1
+      duration: 0.1039309
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1007
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.HealthTester][suite]
+    - id: 1090
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.OverlordPrefabTester][suite]
+      name: OverlordPrefabTester
+      fullName: Tests.OverlordPrefabTester
+      resultStatus: 1
+      duration: 0.023109
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1094
+      parentUniqueId: Assembly-CSharp-Editor.dll/[Tests][suite]
+    - id: 1091
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/OverlordPrefabTester/[Assembly-CSharp-Editor][Tests.OverlordPrefabTester.T00_SimplePasses]
+      name: T00_SimplePasses
+      fullName: Tests.OverlordPrefabTester.T00_SimplePasses
+      resultStatus: 1
+      duration: 0.0003805
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.OverlordPrefabTester][suite]
+    - id: 1092
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/OverlordPrefabTester/[Assembly-CSharp-Editor][Tests.OverlordPrefabTester.T01_OverlordIsSuccesfullyCreated]
+      name: T01_OverlordIsSuccesfullyCreated
+      fullName: Tests.OverlordPrefabTester.T01_OverlordIsSuccesfullyCreated
+      resultStatus: 1
+      duration: 0.0008572
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1090
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.OverlordPrefabTester][suite]
+    - id: 1093
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.TestSetupTester][suite]
+      name: TestSetupTester
+      fullName: Tests.TestSetupTester
+      resultStatus: 1
+      duration: 0.0165068
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1097
+      parentUniqueId: Assembly-CSharp-Editor.dll/[Tests][suite]
+    - id: 1094
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/TestSetupTester/[Assembly-CSharp-Editor][Tests.TestSetupTester.T00_SimplePasses]
+      name: T00_SimplePasses
+      fullName: Tests.TestSetupTester.T00_SimplePasses
+      resultStatus: 1
+      duration: 0.0003649
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1093
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.TestSetupTester][suite]
+    - id: 1095
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/TestSetupTester/[Assembly-CSharp-Editor][Tests.TestSetupTester.T01_CreateOverlordWorks]
+      name: T01_CreateOverlordWorks
+      fullName: Tests.TestSetupTester.T01_CreateOverlordWorks
+      resultStatus: 1
+      duration: 0.0002775
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1093
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.TestSetupTester][suite]
+    - id: 1096
+      uniqueId: Assembly-CSharp-Editor.dll/Tests/TestSetupTester/[Assembly-CSharp-Editor][Tests.TestSetupTester.T02_CreateEmptyTestObjectWorks]
+      name: T02_CreateEmptyTestObjectWorks
+      fullName: Tests.TestSetupTester.T02_CreateEmptyTestObjectWorks
+      resultStatus: 1
+      duration: 0.0002435
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1093
+      parentUniqueId: Assembly-CSharp-Editor.dll/Tests/[Assembly-CSharp-Editor][Tests.TestSetupTester][suite]
+    m_ResultText: 'T11_RemovesSelfFromHealthManagerOnDestroy (0.176s)
+
+      ---
+
+      Unhandled
+      log message: ''[Error] EditMode test can only yield null''. Use UnityEngine.TestTools.LogAssert.Expect
+
+      ---
+
+      UnityEditor.EditorApplication:Internal_CallUpdateFunctions()
+
+      ---
+
+      EditMode
+      test can only yield null
+
+      Destroy may not be called from edit mode!
+      Use DestroyImmediate instead.
+
+      Destroying an object in edit mode destroys
+      it permanently.'
+    m_ResultStacktrace: 'UnityEditor.EditorApplication:Internal_CallUpdateFunctions()
+
+      
+
+'
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 6dd54a83
+      m_LastClickedID: -2092247699
+      m_ExpandedIDs: 31c8d58a5ac4dfd92b94202c7d456e5736ed166effffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 403
+    y: 73
+    width: 962
+    height: 551
+  m_ViewDataDictionary: {fileID: 0}
+  m_SerializedViewsNames: []
+  m_SerializedViewsValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 962, y: 530}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -481
+    m_HBaseRangeMax: 481
+    m_VBaseRangeMin: -265
+    m_VBaseRangeMax: 265
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 962
+      height: 530
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 481, y: 265}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -481
+      y: -265
+      width: 962
+      height: 530
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 962, y: 551}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 402
+    height: 551
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: d6480000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 98eeffff18efffff46efffffb6efffffecefffff22f0ffff92f0ffffc8f0ffff10f4ffff0ef7ffffdcfaffff70fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 8}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 24283f8f3e4f45a4db2a19faf3bd2a84
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 403
+    y: 73
+    width: 962
+    height: 551
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: d964a84de06f8b94fbc7acf0a550a895
+  m_Gizmos: 1
+  m_SceneIsLit: 0
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 1.7181807, y: 2.9367425, z: -1.3706973}
+    speed: 2
+    m_Value: {x: 1.7181807, y: 2.9367425, z: -1.3706973}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_ExposureSliderMax: 10
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 0
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    yGrid:
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: -0.17349231, y: 0.6853017, z: -0.17338836, w: -0.6857136}
+    speed: 2
+    m_Value: {x: -0.17349193, y: 0.6853002, z: -0.17338797, w: -0.68571204}
+  m_Size:
+    m_Target: 5.7638116
+    speed: 2
+    m_Value: 5.7638116
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfView: 90
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 403
+    y: 73
+    width: 962
+    height: 551
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 408
+    y: 81
+    width: 954
+    height: 542
+  m_ViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: -3939691259494475378, guid: 6cf10de605aad5c4a9052c49fb542fdf, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: 6cf10de605aad5c4a9052c49fb542fdf,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: -3939691259494475378, guid: 6cf10de605aad5c4a9052c49fb542fdf,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 1
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 645
+    width: 1366
+    height: 354
+  m_ViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Tests/PlayMode
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Tests/PlayMode
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\albri\Documents\GitHub\TDD_OverlordGame\TDD_OverlordGame
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: ac480000
+    m_LastClickedID: 18604
+    m_ExpandedIDs: 0000000030420000324200003442000036420000384200003a42000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 10}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 0000000030420000324200003442000036420000384200003a420000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 11}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 258
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 645
+    width: 1366
+    height: 354
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1367
+    y: 73
+    width: 552
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+  m_OpenAddComponentMenu: 0
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12303, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 221, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Version Control
+    m_Image: {fileID: 897598055310200762, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1367
+    y: 73
+    width: 552
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+  pendingList:
+    m_listState:
+      Scroll: -52
+      Expanded:
+      - -1
+  incomingList:
+    m_listState:
+      Scroll: 0
+      Expanded: []
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12141, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 360}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Navigation
+    m_Image: {fileID: 7874161543223113035, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1367
+    y: 73
+    width: 552
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &23
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12090, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 250}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Occlusion
+    m_Image: {fileID: -2243944637213960084, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1367
+    y: 73
+    width: 552
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
